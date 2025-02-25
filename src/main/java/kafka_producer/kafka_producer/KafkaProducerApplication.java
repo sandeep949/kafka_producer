@@ -10,6 +10,7 @@ public class KafkaProducerApplication {
 		SpringApplication.run(KafkaProducerApplication.class, args);
 		System.out.println("hello kafka world");
 		System.out.println("welcome to kafka producer");
+		System.out.println("fgvhbjnkm");
 	}
 
 }
